@@ -66,7 +66,11 @@ Invalid impact symbols (must be + or -)
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 Author
+
 [Devansh Dhir]
+
 Support
+
 For any questions or issues, please open an issue on the GitHub repository.
