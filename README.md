@@ -1,5 +1,7 @@
 TOPSIS-Devansh-102203449
-Description
+
+Description:-
+
 This package implements the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method for Multiple Criteria Decision Making (MCDM). TOPSIS is a method of compensatory aggregation that compares a set of alternatives based on their geometric distance from both the ideal best and ideal worst solutions.
 Installation
 Install the package using pip:
